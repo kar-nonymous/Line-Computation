@@ -1,0 +1,13 @@
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.exe
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.deps.json
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.dll
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.pdb
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.csprojAssemblyReference.cache
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.dll
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.pdb
+C:\Users\Kartikeya\source\repos\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.genruntimeconfig.cache
